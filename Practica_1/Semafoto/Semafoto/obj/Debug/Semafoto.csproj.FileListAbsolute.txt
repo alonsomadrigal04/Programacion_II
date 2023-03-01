@@ -1,0 +1,15 @@
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\bin\Debug\Semafoto.exe.config
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\bin\Debug\Semafoto.exe.manifest
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\bin\Debug\Semafoto.application
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\bin\Debug\Semafoto.exe
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\bin\Debug\Semafoto.pdb
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\obj\Debug\Semafoto.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\obj\Debug\Semafoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\obj\Debug\Semafoto.Form1.resources
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\obj\Debug\Semafoto.Properties.Resources.resources
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\obj\Debug\Semafoto.csproj.GenerateResource.cache
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\obj\Debug\Semafoto.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\obj\Debug\Semafoto.exe.manifest
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\obj\Debug\Semafoto.application
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\obj\Debug\Semafoto.exe
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Semafoto\Semafoto\obj\Debug\Semafoto.pdb

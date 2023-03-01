@@ -33,7 +33,7 @@ namespace Ej4
             int cont = 0;
 
             int i = 0, j = 0;
-            while (i+1 <= array1.Length && j+1 <= array2.Length)
+            while (i < array1.Length && j < array2.Length)
             {
                 if (array1[i] < array2[j])
                 {
