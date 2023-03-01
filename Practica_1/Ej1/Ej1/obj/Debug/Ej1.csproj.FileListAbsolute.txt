@@ -1,0 +1,8 @@
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej1\Ej1\bin\Debug\Ej1.exe.config
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej1\Ej1\bin\Debug\Ej1.exe
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej1\Ej1\bin\Debug\Ej1.pdb
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej1\Ej1\obj\Debug\Ej1.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej1\Ej1\obj\Debug\Ej1.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej1\Ej1\obj\Debug\Ej1.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej1\Ej1\obj\Debug\Ej1.exe
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej1\Ej1\obj\Debug\Ej1.pdb
