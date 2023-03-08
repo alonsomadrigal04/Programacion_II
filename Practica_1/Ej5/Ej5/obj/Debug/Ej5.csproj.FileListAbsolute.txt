@@ -1,0 +1,11 @@
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej5\Ej5\bin\Debug\Ej5.exe.config
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej5\Ej5\bin\Debug\Ej5.exe
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej5\Ej5\bin\Debug\Ej5.pdb
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej5\Ej5\obj\Debug\Ej5.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej5\Ej5\obj\Debug\Ej5.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej5\Ej5\obj\Debug\Ej5.Form1.resources
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej5\Ej5\obj\Debug\Ej5.Properties.Resources.resources
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej5\Ej5\obj\Debug\Ej5.csproj.GenerateResource.cache
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej5\Ej5\obj\Debug\Ej5.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej5\Ej5\obj\Debug\Ej5.exe
+C:\Users\super\OneDrive - Universitat Jaume I\Universidad\C sharp\Programacion_II\Practica_1\Ej5\Ej5\obj\Debug\Ej5.pdb
